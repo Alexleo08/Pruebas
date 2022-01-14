@@ -57,7 +57,7 @@ def servicio():
     #print(dataJson)
     return dataJson
 
-
+#modificacion
 archivoExcel = pd.read_excel('C:/Users/aleja/Desktop/PP/ejemploFullPruebasProduccionDEF.xlsx') #para leer archivo excel
 resultadoJson= pd.DataFrame() #se crea variable tipo DataFrame para el registro de las respuestas del servidor
 
